@@ -8,7 +8,7 @@ public class prime_number_using_recursion {
 	}
 	static boolean prime(int n)
 	{
-		
+		return false;
 	}
 
 }
